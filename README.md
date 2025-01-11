@@ -13,7 +13,7 @@ I gathred all my knowledge to do with Arduinos and motors and created a new car 
 - A battery bank for the ESP32 and motors
 - Some type of case for the final product (I used carboard for prototpying)
   
-Hopefully I'll get a 3D printer soon and move on from carboard! 😄
+Hopefully I'll get a 3D printer soon and move on from carboard! 
 
 ## The code and how it works: 
 
