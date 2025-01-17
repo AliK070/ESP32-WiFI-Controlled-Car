@@ -17,7 +17,7 @@ Hopefully I'll get a 3D printer soon and move on from carboard!
 
 ## The circuit Diagram 
 
-[Circuit Diagram/Circuit Diagram.png]
+![Image](https://github.com/user-attachments/assets/c873739e-3bfd-482f-a9e9-8ba16bd83d94)
 
 ## The code and how it works: 
 
