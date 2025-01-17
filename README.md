@@ -15,6 +15,10 @@ I gathred all my knowledge to do with Arduinos and motors and created a new car 
   
 Hopefully I'll get a 3D printer soon and move on from carboard! 
 
+## The circuit Diagram 
+
+[Circuit Diagram/Circuit Diagram.png]
+
 ## The code and how it works: 
 
 ## Conclusion: 
