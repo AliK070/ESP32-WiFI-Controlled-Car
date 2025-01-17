@@ -17,8 +17,19 @@ Hopefully I'll get a 3D printer soon and move on from carboard!
 
 ## The circuit Diagram 
 
+The circuit diagram for the wiring of the ESP32 alongside four motors and a battery.
+
 ![Image](https://github.com/user-attachments/assets/c873739e-3bfd-482f-a9e9-8ba16bd83d94)
 
 ## The code and how it works: 
+
+You will first need to install the ESPAsyncWebServer library and you'll need to include the WiFi library as well. Next when using the code in the program file, you will have to input your WiFis SSID and password, this is quite an unsafe way of doing this as you are hard coding both of these elements into the code, thus instead try to see a way in which you can dynamically and safely input this data. 
+
+Change these fields to your own SSID and password:
+```c++
+// Wi-Fi credentials
+const char *ssid = "";
+const char *password = "";
+```
 
 ## Conclusion: 
