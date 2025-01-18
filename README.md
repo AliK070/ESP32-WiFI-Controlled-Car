@@ -32,4 +32,14 @@ const char *ssid = "";
 const char *password = "";
 ```
 
+The two primary functions that take care of the motors are: 
+
+```c++
+
+void stopMotors(); // Stops all motors
+void setup(); // Initialzing all the pins for the motors
+server.on() // Serves the HTML page, you are able to fully edit it.
+
+```
+
 ## Conclusion: 
