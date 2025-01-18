@@ -32,15 +32,27 @@ const char *ssid = "";
 const char *password = "";
 ```
 
-The two primary functions that take care of the motors are: 
+The two primary functions that take care of the motors are (with one extra being the server functionality): 
 
 ```c++
 
 void stopMotors(); // Stops all motors
 void setup(); // Initialzing all the pins for the motors
-server.on() // Serves the HTML page, you are able to fully edit it.
+server.on(); // Serves the HTML page, you are able to fully edit it.
 
 ```
+
+## Pictures and Demo: 
+
+Pictures: 
+
+Ariel-ish view:
+
+![Image](https://github.com/user-attachments/assets/a6332a1a-b934-473b-8b6d-49d62898255c)
+
+View from afar: 
+
+![Image](https://github.com/user-attachments/assets/8a81a950-6793-4dba-b2f3-622543e3a3fe)
 
 ## Conclusion: 
 
