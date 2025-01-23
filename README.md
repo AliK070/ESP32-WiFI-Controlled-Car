@@ -54,6 +54,8 @@ View from afar:
 
 ![Image](https://github.com/user-attachments/assets/8a81a950-6793-4dba-b2f3-622543e3a3fe)
 
+[Youtube](https://www.youtube.com/watch?v=xVSei5mL3lQ&ab_channel=Ak0TecForge)
+
 ## Conclusion: 
 
 The ESP32 WiFi-controlled car is a fascinating project that combines skills in electronics, coding, and prototyping to create a functional and interactive device. By leveraging the ESP32's advanced capabilities over traditional Arduino boards, such as built-in WiFi and Bluetooth, this project showcases how modern microcontrollers can take DIY projects to the next level.
